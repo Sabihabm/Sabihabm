@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Sabiha 👋
 
-<!--
-**Sabihabm/Sabihabm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Aspiring Full Stack Developer  
+💻 Learning JavaScript, HTML, CSS, and Git  
+🎯 Goal: To become a job-ready developer with strong frontend skills  
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- Beginner-friendly JavaScript learner
+- Practicing DOM manipulation and basic projects
+- Interested in Web Development & UI/UX
+- Consistently improving my coding skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- HTML  
+- CSS  
+- JavaScript  
+- Git & GitHub  
+
+### 📌 Current Focus
+- JavaScript fundamentals  
+- DOM manipulation  
+- Building small projects and pushing them to GitHub  
+
+### 📫 Connect with Me
+- GitHub: https://github.com/Sabihabm
+
