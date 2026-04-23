@@ -14,7 +14,9 @@
 - HTML  
 - CSS  
 - JavaScript  
-- Git & GitHub  
+- Git & GitHub
+- sql
+- mongoDb
 
 ### 📌 Current Focus
 - JavaScript fundamentals  
